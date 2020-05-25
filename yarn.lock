@@ -5957,6 +5957,11 @@ pirates@^4.0.1:
   dependencies:
     node-modules-regexp "^1.0.0"
 
+pjax-api@^3.31.0:
+  version "3.31.0"
+  resolved "https://registry.yarnpkg.com/pjax-api/-/pjax-api-3.31.0.tgz#2803b0152356a7b5d55fff04b355d21bc2c70c28"
+  integrity sha512-v5KWFo3EMGneBZiTuD+2j1IWDU3IZCGl1naWVr56rWFtGl6o/2XKwxFwKCh3zvu93FeQho6jstfxSVSEeqSBCw==
+
 pkg-dir@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/pkg-dir/-/pkg-dir-3.0.0.tgz#2749020f239ed990881b1f71210d51eb6523bea3"
